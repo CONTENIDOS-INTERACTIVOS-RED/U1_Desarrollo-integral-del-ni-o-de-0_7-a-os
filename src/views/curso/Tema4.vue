@@ -26,7 +26,7 @@
         .col-4.d-none.d-xl-block
           img(src='@/assets/curso/unidad/img-57.png', alt='Ventajas del aprendizaje significativo')
         .col-12.col-xl-8.d-flex
-          .my-auto
+          .my-auto.py-4.py-xl-0
             p.mb-3 El aprendizaje significativo tiene ventajas claras:
             p.mb-3 - Genera comprensión profunda
             p.mb-3 - Favorece la retención a largo plazo
@@ -38,19 +38,22 @@
           div.custom-image-card.rounded-8px
             img.mb-4(src='@/assets/curso/unidad/img-58.png', alt='Motivación del estudiante')
             div.mb-4
-              p.text-bold.text-center Motivación del estudiante
-              p.text-small.px-4.text-center.pb-2 El alumno debe tener una actitud positiva hacia el aprendizaje, mostrando predisposición y voluntad para relacionar el nuevo material con su estructura cognitiva.
+              p.text-bold.text-center Actitud significativa del aprendiz
+              p.text-small.px-4.text-center.pb-2 El estudiante debe tener la intención y disposición de relacionar el nuevo conocimiento con sus saberes previos.
         .col-10.col-md-6.mb-4.mx-auto(data-aos="fade-left")
           div.custom-image-card.rounded-8px
             img.mb-4(src='@/assets/curso/unidad/img-59.png', alt='Material potencialmente significativo')
             div.mb-4
               p.text-bold.text-center Material potencialmente significativo
-              p.text-small.px-4.text-center.pb-2 El contenido debe tener significado lógico y ser presentado de manera que pueda conectarse con los conceptos relevantes que el estudiante ya posee ("subsumidores").
+              p.text-small.px-4.text-center.pb-2 El contenido debe tener significado lógico y debe presentarse de forma que pueda integrarse a la estructura cognitiva del alumno mediante ideas ancla.
 
       .d-flex.align-items-start.bg-amarillo-oscuro.bg-full-width.p-4(data-aos='fade-up').d-flex.align-items-center.flex-column.flex-md-row.mb-4
         img.me-3(style='width: 90px' src='@/assets/curso/unidad/img-60.svg', alt='Texto descriptivo de la imagen')
-        .my-auto
+        .my-auto.p-4.p-xl-0
           p.pe-xl-3.mb-0 Una estructura cognitiva organizada, con conceptos previos claros y accesibles, aumenta la probabilidad de un aprendizaje verdaderamente significativo. Sin motivación o sin "ideas de anclaje", el aprendizaje será memorístico y pasajero.
+
+      h2 Tipos de aprendizaje significativo
+      p.mb-4 Ausubel distingue varios tipos de aprendizaje, según el tipo de contenido o nivel de complejidad cognitiva involucrado. Estos tipos explican cómo se van formando representaciones mentales desde etapas tempranas hasta niveles más abstractos.
 
       .row.position-relative.mb-5.py-4.bg-fondo-slider.bg-full-width
         div.px-4.px-md-5.py-md-3
@@ -99,9 +102,11 @@
             span Por ejemplo, si ya sabes qué es un mamífero, al aprender sobre los invertebrados puedes ampliar tu concepto de "animal" para incluir categorías más diversas.
           span <b>Importante:</b> Cuando la nueva información se mezcla muy profundamente con el conocimiento previo, puede dificultarse la recuperación aislada de esa información, generando <b>olvido por asimilación</b>.
 
+      h2 Rol del lenguaje en el aprendizaje significativo
+
       .row.bg-rosa.px-4.py-xl-4
         .col-12.col-xl-8.d-flex
-          .my-auto
+          .my-auto.py-4.py-xl-0
             p.mb-3 El <b>lenguaje</b> cumple una función esencial en este modelo. No solo es un medio para expresar ideas, sino que <b>facilita la organización y reestructuración del pensamiento</b>.
             p.mb-3 A través del lenguaje, verbalizamos conceptos, los categorizamos y los hacemos conscientes.
             span <ul><li>- Nos permite nombrar y definir conceptos</li><li>- Favorece el discurso interno</li><li>- Es clave tanto en el aprendizaje receptivo como en el descubrimiento</li></ul> El aprendizaje representacional y conceptual, por ejemplo, depende del uso adecuado del lenguaje para formar símbolos mentales y establecer significados duraderos.

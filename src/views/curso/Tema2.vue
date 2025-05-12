@@ -89,13 +89,13 @@
         .tarjeta.bg-white.p-4(x='20%' y='20%' numero='+')
           .h5.mb-2 01. Filogenético
           p Desarrollo de la especie humana y de las funciones psicológicas superiores.
-        .tarjeta.bg-white.p-4(x='67%' y='20%' numero='+')
+        .tarjeta.bg-white.p-4(x='20%' y='76%' numero='+')
           .h5.mb-2 02. Histórico-sociocultural
           p Desarrollo de sistemas artificiales (como el lenguaje o las normas sociales) que regulan el comportamiento.
-        .tarjeta.bg-white.p-4(x='67%' y='76%' numero='+')
+        .tarjeta.bg-white.p-4(x='67%' y='20%' numero='+')
           .h5.mb-2 03. Ontogenético
           p Desarrollo individual: interacción entre biología y cultura en el ciclo vital.
-        .tarjeta.bg-white.p-4(x='20%' y='76%' numero='+')
+        .tarjeta.bg-white.p-4(x='67%' y='76%' numero='+')
           .h5.mb-2 04. Microgenético
           p Cambios en procesos psicológicos específicos observados en tiempo real (in vivo).
       
@@ -154,7 +154,7 @@
 
       .d-flex.align-items-start.bg-amarillo-oscuro.bg-full-width.p-4(data-aos='fade-up').d-flex.align-items-center.flex-column.flex-md-row.mb-4
         img.me-3(style='width: 90px' src='@/assets/curso/unidad/img-30.svg', alt='Texto descriptivo de la imagen')
-        .my-auto
+        .my-auto.p-4.p-xl-0
           p.pe-xl-3.mb-0 Este proceso de <b>internalización</b> convierte las herramientas culturales en parte del repertorio mental del individuo. El aprendizaje, por tanto, <b>no es solo adquisición de conocimientos</b>, sino transformación del pensamiento.
 
       h2 Ejemplo aplicado: la ZDP en acción
@@ -211,8 +211,8 @@
             img.h-100(src='@/assets/curso/unidad/img-32.png', alt='Texto que describa la imagen')
           .col-12.col-xl-7.d-flex.ps-4.ps-xl-5.align-items-center.flex-column
             h2.mb-4.pb-2.me-auto Teoría del desarrollo moral
-            p.mb-5(data-aos="fade-up") Se invita a leer el documento Teoría del desarrollo moral , donde se aborda el enfoque de Lawrence Kohlberg sobre cómo las personas desarrollan su capacidad para razonar sobre dilemas éticos a lo largo de la vida. Este documento ofrece explicaciones detalladas, análisis comparativos entre autores como Piaget y Kohlberg, y ejemplos ilustrativos de cada etapa del desarrollo moral, con el fin de comprender la evolución del juicio moral desde la niñez hasta la adultez. 
-            a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/.pdf')" target="_blank")
+            p.mb-5(data-aos="fade-up") Se invita a leer el documento Teoría del desarrollo moral, donde se aborda el enfoque de Lawrence Kohlberg sobre cómo las personas desarrollan su capacidad para razonar sobre dilemas éticos a lo largo de la vida. Este documento ofrece explicaciones detalladas, análisis comparativos entre autores como Piaget y Kohlberg, y ejemplos ilustrativos de cada etapa del desarrollo moral, con el fin de comprender la evolución del juicio moral desde la niñez hasta la adultez. 
+            a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_Teoría_del_desarrollo_moral.pdf')" target="_blank")
               img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
               p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> Teoría del desarrollo moral
 

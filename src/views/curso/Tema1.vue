@@ -21,14 +21,14 @@
         .d-flex.align-items-start.bg-verde.p-4(data-aos='fade-up').d-flex.align-items-center.flex-column.flex-md-row.mb-4
           img.me-3(style='width: 90px' src='@/assets/curso/unidad/img-5.svg', alt='Texto descriptivo de la imagen')
           .my-auto
-            p.pe-xl-3.mb-3.text-bold Primero
-            span  Desarrollo de la personalidad	
+            p.pe-xl-3.mb-3.text-bold Desarrollo de la personalidad
+            span Se configura en los primeros años de vida mediante conflictos entre necesidades biológicas (placer y sexualidad) y las normas sociales.  	
       .col-12.col-xl-6
         .d-flex.align-items-start.bg-verde.p-4(data-aos='fade-up').d-flex.align-items-center.flex-column.flex-md-row.mb-4
           img.me-3(style='width: 90px' src='@/assets/curso/unidad/img-6.svg', alt='Texto descriptivo de la imagen')
           .my-auto
-            p.pe-xl-3.mb-3.text-bold Segundo
-            span Etapas del desarrollo psicosexual	
+            p.pe-xl-3.mb-3.text-bold Etapas del desarrollo psicosexual
+            span La personalidad se forma en fases sucesivas, cada una marcada por una zona erógena distinta y conflictos específicos.
     h2 La libido como energía vital
 
     .row.mb-4.mx-0
