@@ -187,10 +187,7 @@
             .col-12.col-md-6.col-lg-8
               p.d-flex.my-4
                 img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
-                a.text-small.text-primary(target="_blank", href="https://ciencialatina.org/index.php/cienciala/article/download/3365/5114") Aplicación de un Programa de Inteligencia emocional y desarrollo moral en los niños y niñas de educación primaria
-              p.d-flex.my-4
-                img.me-3.mb-auto.mt-1(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a.text-small.text-primary(target="_blank", href="https://ciencialatina.org/") Ciencia Latina Revista Científica Multidisciplinar
+                a.text-small.text-primary(target="_blank", href="https://ciencialatina.org/index.php/cienciala/article/download/3365/5114") Herrera, E. P. (2022). Aplicación de un Programa de Inteligencia emocional y desarrollo moral en los niños y niñas de educación primaria. Ciencia Latina Revista Científica Multidisciplinar, 6(5), 3898-3931.
               p.d-flex.my-4
                 img.me-3.mb-auto.mt-1(src='@/assets/componentes/youtube-icon.svg' :style="{'max-width':'16px'}")
                 a.text-small.text-primary(target="_blank", href="https://www.youtube.com/watch?v=eWoP3OHqzF8") [Vídeo] Las 6 Etapas del Desarrollo Moral de Kohlberg

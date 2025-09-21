@@ -223,10 +223,7 @@
             .col-12.col-md-6.col-lg-8
               p.d-flex.my-4
                 img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
-                a.text-small.text-primary(target="_blank", href="http://repositoriodspace.unipamplona.edu.co/jspui/bitstream/20.500.12744/5078/1/Osorio_2021_TG.pdf") Implementación de una estrategia Webquest con base en la teoría de Lev S. Vygotsky para la producción de textos escritos
-              p.d-flex.my-4
-                img.me-3.mb-auto.mt-1(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a.text-small.text-primary(target="_blank", href="http://repositoriodspace.unipamplona.edu.co/") Repositorio Universidad de Pamplona
+                a.text-small.text-primary(target="_blank", href="http://repositoriodspace.unipamplona.edu.co/jspui/bitstream/20.500.12744/5078/1/Osorio_2021_TG.pdf") Osorio Pita, M. I. (2022). Implementación de una estrategia Webquest con base en la teoría de Lev s. Vygotsky para la producción de textos escritos en los estudiantes de cuarto grado del Instituto Santa Teresita.
               p.d-flex.my-4
                 img.me-3.mb-auto.mt-1(src='@/assets/componentes/youtube-icon.svg' :style="{'max-width':'16px'}")
                 a.text-small.text-primary(target="_blank", href="https://www.youtube.com/watch?v=fHdQWmbhfdE") [Vídeo] La Teoría del Desarrollo Cognitivo a Través de las Relaciones Sociales de Vygotsky

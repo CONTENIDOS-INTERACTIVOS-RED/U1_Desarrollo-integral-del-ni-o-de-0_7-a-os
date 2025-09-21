@@ -166,7 +166,7 @@
           .col-12.col-md-6.col-lg-8
             p.d-flex.my-4
               img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
-              a.text-small.text-primary(target="_blank", href="https://repository.unab.edu.co/bitstream/handle/20.500.12749/15817/2001_Tesis_Lis_Edith_P%C3%A9rez_Colmenares.pdf?sequence=1") Revisión documental sobre la evolución de la teoría sexual en la obra de Sigmund Freud
+              a.text-small.text-primary(target="_blank", href="https://repository.unab.edu.co/bitstream/handle/20.500.12749/15817/2001_Tesis_Lis_Edith_P%C3%A9rez_Colmenares.pdf?sequence=1") Pérez Colmenares, L. E. (2021). Revisión documental sobre la evolución de la teoría sexual en la obra de Sigmund Freud.
             p.d-flex.my-4
               img.me-3.mb-auto.mt-1(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a.text-small.text-primary(target="_blank", href="https://repository.unab.edu.co/") Repositorio Universidad Autónoma de Bucaramanga

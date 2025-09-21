@@ -179,10 +179,7 @@
             .col-12.col-md-6.col-lg-8
               p.d-flex.my-4
                 img.me-3.mb-auto.mt-1(src='@/assets/componentes/book.svg' :style="{'max-width':'16px'}")
-                a.text-small.text-primary(target="_blank", href="http://www.scielo.org.co/pdf/leng/v42n2/v42n2a08.pdf") La Teoría Lingüística de Noam Chomsky: del Inicio a la Actualidad
-              p.d-flex.my-4
-                img.me-3.mb-auto.mt-1(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-                a.text-small.text-primary(target="_blank", href="http://www.scielo.org.co/") Scielo Colombia
+                a.text-small.text-primary(target="_blank", href="http://www.scielo.org.co/pdf/leng/v42n2/v42n2a08.pdf") Birchenall, L . Müller, O. (2018). La Teoría Lingüística de Noam Chomsky: del Inicio a la Actualidad. Universidad del Rosario Bogotá. Fundación Universitaria Los Libertadores Colombia. Revista de Investigación Lingüística, 42(2), 163-182.
               p.d-flex.my-4
                 img.me-3.mb-auto.mt-1(src='@/assets/componentes/youtube-icon.svg' :style="{'max-width':'16px'}")
                 a.text-small.text-primary(target="_blank", href="https://www.youtube.com/watch?v=xIBQs1s1VAI&t=44s") [Vídeo] Noam Chomsky language cognition and deep learning (theory of language development)
